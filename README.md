@@ -6,10 +6,9 @@ This milestone implements a responsive Booking Detail Page for the ALX Listing A
 ## Getting Started
 
 1. **Clone:** `git clone https://github.com/yuslove1/alx-listing-app-03.git`
-2. **Navigate:** `cd alx-listing-app-03`
-3. **Install:** `npm install` (or `yarn install`)
-4. **Run:** `npm run dev`
-5. **Goto:** [/booking](http://localhost:3000/booking)
+2. **Install:** `npm install` (or `yarn install`)
+3. **Run:** `npm run dev`
+4. **Goto:** [/booking](http://localhost:3000/booking)
 
 
 
