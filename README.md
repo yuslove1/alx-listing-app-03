@@ -9,6 +9,8 @@ This milestone implements a responsive Booking Detail Page for the ALX Listing A
 2. **Navigate:** `cd alx-listing-app-03`
 3. **Install:** `npm install` (or `yarn install`)
 4. **Run:** `npm run dev`
+5. **Goto:** [/booking](http://localhost:3000/booking)
+
 
 
 ## Booking Detail Page Features
